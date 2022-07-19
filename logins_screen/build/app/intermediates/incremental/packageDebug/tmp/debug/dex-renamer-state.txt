@@ -1,0 +1,4 @@
+#Sat Jul 16 12:38:19 ICT 2022
+base.0=D\:\\surflut\\logins_screen\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
