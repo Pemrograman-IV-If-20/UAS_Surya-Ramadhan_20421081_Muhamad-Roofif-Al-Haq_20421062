@@ -1,7 +1,7 @@
 {
-    "name": "basic",
+    "name": "API",
     "version": "1.0.0",
-    "description": "Belajar api dengan nodejs",
+    "description": "API Toko",
     "main": "app.js",
     "directories": {
         "test": "test"
